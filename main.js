@@ -1,5 +1,3 @@
-
-
 let nombre= prompt("Ingrese su nombre");
 let apellido=prompt("Ingrese su apellido");
 let materia=prompt("ingrese su materia");
